@@ -1,9 +1,4 @@
-package lotto;
-
-import lotto.domain.Lotto;
-import lotto.domain.LottoMachine;
-import lotto.domain.LottoResult;
-import lotto.domain.Lottos;
+package lotto.domain;
 
 public class LottoGame {
   private final Lotto resultLotto;
